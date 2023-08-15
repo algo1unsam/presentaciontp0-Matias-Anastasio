@@ -1,26 +1,8 @@
-# Presentación
+## Hola, me llamo Matias Anastasio y tengo 23 anios.
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Empecé estudiando Ingeniería en Sistemas en la UTN pero no me terminó de convencer la carrera por las materias que estaba cursando, asÍ que a mitad de 2022 me cambie a programación informática en la UNSAM.
 
-Ya saben usar git!
+En mi tiempo libre me gusta mirar peliculas o series y jugar algún juego.
 
 
-## Estudiante: Nombre estudiante
-
-Descripción
-
-Foto de mi persona:
-
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
-
-Diente de Leon
-
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
+Foto: no tengo foto mía a mano.
