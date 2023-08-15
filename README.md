@@ -1,4 +1,4 @@
-## Hola, me llamo Matias Anastasio y tengo 23 anios.
+## Hola, me llamo Matias Anastasio y tengo 23 años.
 
 Empecé estudiando Ingeniería en Sistemas en la UTN pero no me terminó de convencer la carrera por las materias que estaba cursando, asÍ que a mitad de 2022 me cambie a programación informática en la UNSAM.
 
